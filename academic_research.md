@@ -18,3 +18,9 @@
 
 ## Improving your scientific writing: a short guide (Frederic D. Bushman)
 - https://lijunsun.github.io/files/ScientificWritingV39.pdf
+
+## A Short Guide to Writing Mathematics (Dr. Kevin P. Lee)
+- https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf
+
+## 细致分析SCI论文中的时态
+ - https://zhuanlan.zhihu.com/p/38312929
