@@ -1,1 +1,2 @@
-Academic Phrasebank： http://www.phrasebank.manchester.ac.uk/introducing-work/
+- Academic Phrasebank： http://www.phrasebank.manchester.ac.uk/introducing-work/
+- Scientific Writting Course：  https://learn.canvas.net/courses/1505
