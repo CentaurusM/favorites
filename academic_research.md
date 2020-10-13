@@ -18,3 +18,22 @@
 
 ## Academic Grammer
  - [细致分析SCI论文中的时态](https://zhuanlan.zhihu.com/p/38312929)
+ - [Maintaining Formal Tone in Scientific Writing](https://www.aje.com/arc/editing-tip-maintaining-formal-tone-scientific-writing/)
+      
+
+## Appendix 
+
+  | Common term  | Formal synonym                  |
+  | :----------- | :------------------------------ |
+  | deals with   | **addresses**                   |
+  | about/around | **approximately**               |
+  | big          | **large** or **considerable**   |
+  | nowadays     | **currently**                   |
+  | done         | **performed** or **conducted**  |
+  | like         | **such as**                     |
+  | seen/saw     | **observed**                    |
+  | besides      | **moreover** or **in addition** |
+  | take place   | **occur**                       |
+  | get          | **obtain** or **acquire**       |
+
+
