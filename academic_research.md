@@ -23,17 +23,30 @@
 
 ## Appendix 
 
-  | Common term  | Formal synonym                  |
-  | :----------- | :------------------------------ |
-  | deals with   | **addresses**                   |
-  | about/around | **approximately**               |
-  | big          | **large** or **considerable**   |
-  | nowadays     | **currently**                   |
-  | done         | **performed** or **conducted**  |
-  | like         | **such as**                     |
-  | seen/saw     | **observed**                    |
-  | besides      | **moreover** or **in addition** |
-  | take place   | **occur**                       |
-  | get          | **obtain** or **acquire**       |
+Table 1: 
+
+| Common term  | Formal synonym                  |
+| :----------- | :------------------------------ |
+| deals with   | **addresses**                   |
+| about/around | **approximately**               |
+| big          | **large** or **considerable**   |
+| nowadays     | **currently**                   |
+| done         | **performed** or **conducted**  |
+| like         | **such as**                     |
+| seen/saw     | **observed**                    |
+| besides      | **moreover** or **in addition** |
+| take place   | **occur**                       |
+| get          | **obtain** or **acquire**       |
+
+
+| Verb       | Longer sentence                                     | Concise sentence                         |
+| ---------- | --------------------------------------------------- | ---------------------------------------- |
+| Agree      | These results are in agreement with prior findings. | These results agree with prior findings. |
+| Analyze    | We performed an analysis of several factors.        | We analyzed several factors.             |
+| Contradict | Our results are in opposition to Johnson’s study.   | Our results contradict Johnson's study.  |
+| Improve    | Our method is an improvement over prior systems.    | Our method improves on prior systems.    |
+| Localize   | AjeA was found to be present in the nucleus.        | AjeA localized to the nucleus.           |
+| Summarize  | Table 1 presents a summary of the patient data.     | Table 1 summarizes the patient data.     |
+
 
 
