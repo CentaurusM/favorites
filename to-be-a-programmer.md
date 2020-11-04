@@ -8,3 +8,6 @@
 - [Linux 实用小工具](https://www.unixmen.com/10-useful-utilities-linux-users/)
 
 
+## Deep dive
+- [与程序员相关的 CPU 缓存知识](https://coolshell.cn/articles/20793.html)
+
